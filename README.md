@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Maheen Hussain</h1>
-<h3 align="center">A passionate Generative AI Engineer</h3>
+<h3 align="center">A future Generative AI Engineer</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maheen567&label=Profile%20views&color=0e75b6&style=flat" alt="maheen567" /> </p>
 
-- 🌱 I’m currently learning **Typescript, Node.js**
+- 🌱 I’m currently learning **Typescript, Node.js, React, Next.js, Tailwind, Python, Numpy, Pandas, FastAPI, Pendatic, SQLAlchemy, Postgresql Databases, Open AI Specifications**
 
 - 📫 How to reach me **http://www.linkedin.com/in/maheen-hussain-931388301**
 
