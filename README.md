@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maheen567&label=Profile%20views&color=0e75b6&style=flat" alt="maheen567" /> </p>
 
-- 💬 About me **Hello! I'm Maheen Hussain, diving into the world of ARTIFICIAL INTELLIGENCE(AI).Interested in learning new programming languages and latest technologies and trends.**
+- 💬 About me **Hello! I'm Maheen Hussain, diving into the world of ARTIFICIAL INTELLIGENCE(AI). Passionate about learning new programming languages and latest technologies and trends.**
 
 - 🌱 I’m currently learning **Typescript, Node.js, React, Next.js, Tailwind, Python, Numpy, Pandas, FastAPI, Pendatic, SQLAlchemy, Postgresql Databases, Open AI Specifications**
 
