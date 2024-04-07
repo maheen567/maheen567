@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maheen Hussain</h1>
-<h3 align="center">A future Artificial Intelligence Engineer</h3>
+<h3 align="center">Aspiring Artificial Intelligence enthusiast, aims to transform the digital realm for the betterment of people</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
